@@ -1,0 +1,23 @@
+name: piview
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - holoviews
+  - hvplot
+  - geoviews
+  - cartopy
+  - panel
+  - datashader
+  - scikit-learn
+  - rasterio
+  - rioxarray
+  - scipy
+  - jupyterlab
+  - ipywidgets
+  - gdown
+  - dask

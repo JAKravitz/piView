@@ -1,2 +1,2 @@
 # piView
-Pixxel satellite data viewer
+Pixxel data viewer
